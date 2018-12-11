@@ -1,13 +1,13 @@
 {
-    "name": "lipisha/sdk",
+    "name": "kevin-kibet/lipisha-sdk",
     "description": "Lipisha Payments SDK",
     "type": "library",
     "require": {
         "php": ">=5.3.0",
-        "ext-curl": "*"
+        "ext-curl": "^0.0.0"
     },
     "require-dev": {
-        "ext-curl": "*"
+        "ext-curl": "^0.0.0"
     },
     "license": "MIT",
     "authors": [
